@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Investor data (generated locally)
+data/investors.csv
+
+# Python cache
+.pytest_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
